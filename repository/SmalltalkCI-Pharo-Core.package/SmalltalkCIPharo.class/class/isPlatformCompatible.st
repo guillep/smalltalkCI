@@ -4,5 +4,5 @@ isPlatformCompatible
 		| versionString |
 		versionString := cl current version.
 		^ (versionString beginsWith: 'Pharo')
-			and: [ (versionString beginsWith: 'Pharo7.0') not ] ].
+	       and: [ self allSubclasses noneSatisfy: [ :ea | ea isPlatformCompatible ] ] ].
 	^ false
