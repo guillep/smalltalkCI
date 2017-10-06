@@ -1,0 +1,4 @@
+(name 'SmalltalkCI-Pharo-Core-GuillermoPolito.1507284123' message 'empty log message' id 'd422abb4-3f17-0d00-855b-09fe07c9327a' date '6 October 2017' time '12:04:38.731822 pm' author 'GuillermoPolito' ancestors ((name 'SmalltalkCI-Pharo-Core-GuillePolito.1507284122' message 'Fixing PR comments
+
+ - SmalltalkCI pharo platform subclasses take precedence over superclass
+ - make pharo 7 platform match 7.x versions' id 'ba6e56bc-e814-50a4-97ec-3e8fd02b50bf' date '6 October 2017' time '12:02:02 pm' author 'GuillePolito' ancestors () stepChildren ())) stepChildren ())
